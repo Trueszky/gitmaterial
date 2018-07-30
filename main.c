@@ -36,6 +36,11 @@ Store different type of buses in main() in an array.
  bus with the largest capacity.
 */
 
+void greet()
+{
+	printf("Hello Johny!\n");
+}
+
 int main()
 {
   Bus buses[] ={
