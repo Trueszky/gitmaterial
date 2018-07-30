@@ -1,0 +1,25 @@
+#################  
+## Code::Blocks  
+#################  
+  
+*.depend  
+*.layout
+  
+############  
+## Windows  
+############  
+  
+# Windows image file caches  
+Thumbs.db  
+  
+# Folder config file  
+Desktop.ini
+
+##########
+## Other
+##########  
+
+*.exe
+*.o
+
+**/me_the_hacker.txt
